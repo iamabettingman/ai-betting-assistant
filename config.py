@@ -2,5 +2,5 @@
 
 API_KEY = "YOUR_API_KEY_HERE"
 TOP_5_SPORTS = ["soccer_epl", "basketball_nba", "tennis_atp", "baseball_mlb", "americanfootball_nfl"]
-REGION = "us"
+REGION = "us,uk,eu,au,za"
 MARKET = "h2h"
